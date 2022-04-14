@@ -3,6 +3,7 @@ Prophet is a procedure for forecasting time series data based on an additive mod
 
 
 Documentation used: https://facebook.github.io/prophet/docs/quick_start.html
+
 Other useful documentation:
 
 https://facebook.github.io/prophet/docs/
